@@ -215,5 +215,13 @@
         "desc": "GEM Primary Three CONNECT 2025 First Term",
         "price": 130,
         "img": "./books_images/three_primary/3rd-GemConnect.jpg"
+       },
+    {
+        "id": "1048",
+        "section": "primary_four",
+        "name": "Bit by Bit Primary Four CONNECT 2025 First Term",
+        "desc": "Bit by Bit Primary Four CONNECT 2025 First Term",
+        "price": 130,
+        "img": "./books_images/primary_four/4th-BitbyBitConnect.jpg"
        }
 ]

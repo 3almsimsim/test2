@@ -291,7 +291,57 @@
         "desc": "GEM Primary Two CONNECT 2025 First Term",
         "price": 125,
         "img": "./books_images/two_primary/2nd-GemConnect.jpg"
-       }
+       },
+    {
+           "id": "1048",
+           "section": "kg2",
+           "name": "Selah EL-Telmeez KG2 Connect 2025 First Term",
+           "desc": "Selah EL-Telmeez KG2 Connect 2025 First Term",
+           "price": 105,
+           "img": "./books_images/kg2/kg2-selah-connect.jpg"
+          }
+       ,
+       {
+           "id": "1049",
+           "section": "kg2",
+           "name": "Selah EL-Telmeez KG2 Arabic 2025 First Term",
+           "desc": "Selah EL-Telmeez KG2 Arabic 2025 First Term",
+           "price": 105,
+           "img": "./books_images/kg2/kg2-selah-Arabic.jpg"
+          },
+       {
+           "id": "1050",
+           "section": "kg2",
+           "name": "Selah EL-Telmeez KG2 Mathematics-Arabic 2025 First Term",
+           "desc": "Selah EL-Telmeez KG2 Mathematics-Arabic 2025 First Term",
+           "price": 105,
+           "img": "./books_images/kg2/kg2-selah-Mathematics-Arabic.jpg"
+          },
+       {
+           "id": "1051",
+           "section": "kg1",
+           "name": "Selah EL-Telmeez KG1 Connect 2025 First Term",
+           "desc": "Selah EL-Telmeez KG1 Connect 2025 First Term",
+           "price": 105,
+           "img": "./books_images/kg1/kg1-selah-connect.jpg"
+          }
+       ,
+       {
+           "id": "1052",
+           "section": "kg1",
+           "name": "Selah EL-Telmeez KG1 Arabic 2025 First Term",
+           "desc": "Selah EL-Telmeez KG1 Arabic 2025 First Term",
+           "price": 105,
+           "img": "./books_images/kg1/kg1-selah-Arabic.jpg"
+          },
+       {
+           "id": "1053",
+           "section": "kg1",
+           "name": "Selah EL-Telmeez KG1 Mathematics-Arabic 2025 First Term",
+           "desc": "Selah EL-Telmeez KG1 Mathematics-Arabic 2025 First Term",
+           "price": 105,
+           "img": "./books_images/kg1/kg1-selah-Mathematics-Arabic.jpg"
+          }
     
    ]
    

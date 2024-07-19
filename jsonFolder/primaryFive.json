@@ -58,6 +58,22 @@
      "img": "./books_images/primary_six/6th-SelahEnglish.jpg"
     },
     {
+        "id": "1208",
+        "section": "primary_five",
+        "name": "Bit by Bit Primary Five CONNECT 2025 First Term",
+        "desc": "Bit by Bit Primary Five CONNECT 2025 First Term",
+        "price": 130,
+        "img": "./books_images/primary_five/5th-BitbyBitConnect.jpg"
+       },
+    {
+        "id": "1209",
+        "section": "primary_six",
+        "name": "Bit by Bit Primary Six CONNECT 2025 First Term",
+        "desc": "Bit by Bit Primary Six CONNECT 2025 First Term",
+        "price": 130,
+        "img": "./books_images/primary_six/6th-BitbyBitConnect.jpg"
+       },
+    {
      "id": "1010",
      "section": "primary_one",
      "name": "El-Moasser Connect Plus 1st Primary 2025 First Term",

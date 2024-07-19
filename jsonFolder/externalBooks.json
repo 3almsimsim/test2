@@ -69,7 +69,7 @@
      "name": "El-Moasser Connect KG2 2025 First Term",
      "desc": "El-Moasser Connect KG2 2025 First Term",
      "price": 40,
-     "img": "https://github.com/3almsimsim/test2/blob/main/books/books_images/kg2/kg2-moasser-connect.jpg"
+     "img": "./books_images/kg2/kg2-moasser-connect.jpg"
     },
     {
      "id": "1009",

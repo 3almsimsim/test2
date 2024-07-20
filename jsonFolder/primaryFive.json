@@ -6,7 +6,7 @@
      "name": "AL-Baher Primary Five Connect 2025 First Term",
      "desc": "AL-Baher Primary Five Connect 2025 First Term",
      "price": 120,
-     "img": "./books_images/primary_five/5th-BaherConnect.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_five/5th-BaherConnect.jpg"
     },
     {
      "id": "1202",
@@ -14,7 +14,7 @@
      "name": "AL-Baher Primary Five Connect Plus 2025 First Term",
      "desc": "AL-Baher Primary Five Connect Plus 2025 First Term",
      "price": 140,
-     "img": "./books_images/primary_five/5th-BaherConnectPlus.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_five/5th-BaherConnectPlus.jpg"
     },
     {
      "id": "1203",
@@ -22,7 +22,7 @@
      "name": "AL-Baher Primary Six Connect 2025 First Term",
      "desc": "AL-Baher Primary Six Connect 2025 First Term",
      "price": 120,
-     "img": "./books_images/primary_six/6th-BaherConnect.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_six/6th-BaherConnect.jpg"
     },
     
     {
@@ -31,7 +31,7 @@
      "name": "El-Moasser Primary Six Connect Plus 2025 First Term",
      "desc": "El-Moasser Primary Six Connect Plus 2025 First Term",
      "price": 175,
-     "img": "./books_images/primary_six/6th-MoaaserConnectPlus.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_six/6th-MoaaserConnectPlus.jpg"
     },
     {
      "id": "1205",
@@ -39,7 +39,7 @@
      "name": "El-Moasser Primary Five Connect Plus 2025 First Term",
      "desc": "El-Moasser Primary Five Connect Plus 2025 First Term",
      "price": 110,
-     "img": "./books_images/primary_five/5th-MoaaserConnectPlus.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_five/5th-MoaaserConnectPlus.jpg"
     },
     {
      "id": "1206",
@@ -47,7 +47,7 @@
      "name": "Selah EL-Telmeez Primary Five Connect 2025",
      "desc": "Selah EL-Telmeez Primary Five Connect 2025",
      "price": 40,
-     "img": "./books_images/primary_five/5th-SelahEnglish.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_five/5th-SelahEnglish.jpg"
     },
     {
      "id": "1207",
@@ -55,7 +55,7 @@
      "name": "Selah EL-Telmeez Primary Six Connect 2025",
      "desc": "El-Moasser Connect 1st Six 2025 First Term",
      "price": 127,
-     "img": "./books_images/primary_six/6th-SelahEnglish.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_six/6th-SelahEnglish.jpg"
     },
     {
         "id": "1208",
@@ -63,7 +63,7 @@
         "name": "Bit by Bit Primary Five CONNECT 2025 First Term",
         "desc": "Bit by Bit Primary Five CONNECT 2025 First Term",
         "price": 130,
-        "img": "./books_images/primary_five/5th-BitbyBitConnect.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_five/5th-BitbyBitConnect.jpg"
        },
     {
         "id": "1209",
@@ -71,15 +71,32 @@
         "name": "Bit by Bit Primary Six CONNECT 2025 First Term",
         "desc": "Bit by Bit Primary Six CONNECT 2025 First Term",
         "price": 130,
-        "img": "./books_images/primary_six/6th-BitbyBitConnect.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_six/6th-BitbyBitConnect.jpg"
        },
+    {
+        "id": "1210",
+        "section": "primary_five",
+        "name": "المعاصر انجليزى كونكت الصف الخامس 2025 الترم الأول",
+        "desc": "المعاصر انجليزى كونكت الصف الخامس 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_five/5th-MoaaserConnect.jpg"
+       },
+       {
+        "id": "1211",
+        "section": "primary_six",
+        "name": "المعاصر انجليزى كونكت الصف السادس 2025 الترم الأول",
+        "desc": "المعاصر انجليزى كونكت الصف السادس 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_six/6th-MoaaserConnect.jpg"
+       }
+    ,
     {
      "id": "1010",
      "section": "primary_one",
      "name": "El-Moasser Connect Plus 1st Primary 2025 First Term",
      "desc": "El-Moasser Connect Plus 1st Primary 2025 First Term",
      "price": 85,
-     "img": "./books_images/one_primary/1stmoasser_connectPlus.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1stmoasser_connectPlus.jpg"
     },
     {
      "id": "1011",
@@ -87,7 +104,7 @@
      "name": "Bit by Bit 1st Primary One 2025",
      "desc": "Bit by Bit 1st Primary One 2025",
      "price": 95,
-     "img": "./books_images/one_primary/1st-BitbyBit.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-BitbyBit.jpg"
     },
     {
      "id": "1012",
@@ -95,7 +112,7 @@
      "name": "AL-Baher 1st Primary One Connect 2025",
      "desc": "AL-Baher 1st Primary One Connect 2025",
      "price": 95,
-     "img": "./books_images/one_primary/1st-Baher-Connect.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-Baher-Connect.jpg"
     },
     {
      "id": "1013",
@@ -103,7 +120,7 @@
      "name": "Step Ahead 1st Primary One Connect 2025",
      "desc": "Step Ahead 1st Primary One Connect 2025",
      "price": 125,
-     "img": "./books_images/one_primary/1st-StepAhead-Connect.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-StepAhead-Connect.jpg"
     },
     {
      "id": "1014",
@@ -111,7 +128,7 @@
      "name": "Step Ahead 1st Primary One Connect Plus 2025",
      "desc": "Step Ahead 1st Primary One Connect Plus 2025",
      "price": 150,
-     "img": "./books_images/one_primary/1st-StepAhead-ConnectPlus.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-StepAhead-ConnectPlus.jpg"
     },
     {
      "id": "1015",
@@ -119,7 +136,7 @@
      "name": "ALTaasis ALSaleem 1st Primary One Arabic 2025",
      "desc": "ALTaasis ALSaleem 1st Primary One Arabic 2025",
      "price": 140,
-     "img": "./books_images/one_primary/1st-Taasis-Arabic.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-Taasis-Arabic.jpg"
     },
     {
      "id": "1016",
@@ -127,7 +144,7 @@
      "name": "KatrElnda 1st Primary One Arabic 2025",
      "desc": "KatrElnda 1st Primary One Arabic 2025",
      "price": 79,
-     "img": "./books_images/one_primary/1st-KatrElnda-Arabic.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-KatrElnda-Arabic.jpg"
     },
     {
      "id": "1017",
@@ -135,7 +152,7 @@
      "name": "ALADWAA 1st Primary One Arabic 2025",
      "desc": "ALADWAA 1st Primary One Arabic 2025",
      "price": 125,
-     "img": "./books_images/one_primary/1st-Adwaa-Arabic.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-Adwaa-Arabic.jpg"
     },
     {
      "id": "1018",
@@ -143,7 +160,7 @@
      "name": "ALADWAA 1st Primary One Mathematics 2025",
      "desc": "ALADWAA 1st Primary One Mathematics 2025",
      "price": 120,
-     "img": "./books_images/one_primary/1st-Adwaa-math.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/one_primary/1st-Adwaa-math.jpg"
     },
     {
      "id": "1019",
@@ -151,7 +168,7 @@
      "name": "ALADWAA 2nd Primary One Arabic 2025",
      "desc": "ALADWAA 2nd Primary One Arabic 2025",
      "price": 120,
-     "img": "./books_images/two_primary/2nd-Adwaa-Arabic.jpg"
+     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/two_primary/2nd-Adwaa-Arabic.jpg"
     },
     {
      "id": "1020",

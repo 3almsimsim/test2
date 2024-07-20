@@ -223,5 +223,13 @@
         "desc": "Bit by Bit Primary Four CONNECT 2025 First Term",
         "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_four/4th-BitbyBitConnect.jpg"
+       },
+     {
+        "id": "1040",
+        "section": "primary_four",
+        "name": "المعاصر انجليزى كونكت الصف الرابع 2025 الترم الأول",
+        "desc": "المعاصر انجليزى كونكت الصف الرابع 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/books/books_images/primary_four/4th-MoaaserConnect.jpg"
        }
 ]

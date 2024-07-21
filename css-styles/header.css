@@ -186,8 +186,11 @@ display: none;
   display: none;
   gap: 1.5rem;
   align-items: center;
-  font-size: 1.5rem;
   cursor: pointer;
+}
+
+#mob {
+  font-size: 2rem;
 }
 
 #close i,

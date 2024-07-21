@@ -55,4 +55,13 @@
         "price": 230,
         "img": "./books_images/secondary_three/3sec_chemistry.jpg"
     }
+    ,
+    {
+        "id": "1708",
+        "section": "secondary_three",
+        "name": "الإمتحان عربى للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان عربى للصف الثالث الثانوى 2025",
+        "price": 230,
+        "img": "./books_images/secondary_three/3sec_arabic.jpg"
+    }
 ]

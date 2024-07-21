@@ -35,10 +35,12 @@ nav {
 #cart {
   cursor: pointer;
   position: relative;
-  /* font-size: 40px; */
-  
+  font-size: 2rem;
+  font-weight: 800;
+  color: #d61156;
+  text-transform: capitalize;
+  transition: 0.3s ease;
 }
-
 
 
 .quantity {
@@ -154,7 +156,6 @@ display: none;
 }
 
 #navlist li a,
-#cart,
 #mob,
 .mobile a {
   font-size: 1rem;

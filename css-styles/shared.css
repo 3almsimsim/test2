@@ -97,6 +97,7 @@ h5 {
     /* cursor: zoom-out; */
     position: absolute;
     left: 0;
+    top: 25%;
     width: 100%;
   }
 

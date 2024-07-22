@@ -91,10 +91,13 @@ h5 {
   cursor: zoom-in;
   }
 
-  .product-img:active{
-    -webkit-transform: scale(2);
-    transform: scale(2);
-    cursor: zoom-out;
+  .product-img img:active{
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    /* cursor: zoom-out; */
+    position: absolute;
+    left: 0;
+    width: 100%;
   }
 
 .new-p-link {

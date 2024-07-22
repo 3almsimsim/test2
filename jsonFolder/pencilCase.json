@@ -165,7 +165,7 @@
   "name": "مقلمة جلد عالى الجودة",
   "desc": "مقلمة جلد عالى الجودة",
   "price": 65,
-  "img": "./images/blackSpace.jpg"
+  "img": "./images/hootin.jpg"
  },
  {
     "id": "319",
@@ -216,6 +216,38 @@
     "desc": "مقلمة جلد سوستة عالى الجودة",
     "price": 75,
     "img": "./images/rabbitLove.jpg"
+   },
+ {
+    "id": "325",
+    "section": "pencilCase",
+    "name": "مقلمة جلد سوستة  عالى الجودة",
+    "desc": "مقلمة جلد سوستة عالى الجودة",
+    "price": 75,
+    "img": "./images/hootinGray.jpg"
+   },
+ {
+    "id": "325",
+    "section": "pencilCase",
+    "name": "مقلمة جلد سوستة  عالى الجودة",
+    "desc": "مقلمة جلد سوستة عالى الجودة",
+    "price": 75,
+    "img": "./images/blueDino.jpg"
+   },
+ {
+    "id": "325",
+    "section": "pencilCase",
+    "name": "مقلمة جلد سوستة  عالى الجودة",
+    "desc": "مقلمة جلد سوستة عالى الجودة",
+    "price": 75,
+    "img": "./images/classicCar.jpg"
+   },
+ {
+    "id": "326",
+    "section": "pencilCase",
+    "name": "مقلمة جلد سوستة  عالى الجودة",
+    "desc": "مقلمة جلد سوستة عالى الجودة",
+    "price": 75,
+    "img": "./images/niceBunny.jpg"
    }
 
 ]

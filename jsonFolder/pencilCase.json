@@ -248,6 +248,38 @@
     "desc": "مقلمة جلد سوستة عالى الجودة",
     "price": 75,
     "img": "./images/niceBunny.jpg"
+   },
+ {
+    "id": "328",
+    "section": "pencilCase",
+    "name": "مقلمة جلد 2سوستة  عالى الجودة",
+    "desc": "مقلمة جلد 2سوستة عالى الجودة",
+    "price": 75,
+    "img": "./images/Aim.jpg"
+   },
+ {
+    "id": "329",
+    "section": "pencilCase",
+    "name": "مقلمة 2سوستة كابتن أمريكا عالى الجودة",
+    "desc": "مقلمة 2سوستة كابتن أمريكا عالى الجودة",
+    "price": 75,
+    "img": "./images/captinAmerica2.jpg"
+   },
+ {
+    "id": "330",
+    "section": "pencilCase",
+    "name": "مقلمة 2سوستة أيرون مان خامة عالى الجودة",
+    "desc": "مقلمة 2سوستة أيرون مان خامة عالى الجودة",
+    "price": 75,
+    "img": "./images/ironMan.jpg"
+   },
+ {
+    "id": "330",
+    "section": "pencilCase",
+    "name": "مقلمة 2سوستة 4*4 خامة عالى الجودة",
+    "desc": "مقلمة 2سوستة 4*4 خامة عالى الجودة",
+    "price": 75,
+    "img": "./images/race.jpg"
    }
 
 ]

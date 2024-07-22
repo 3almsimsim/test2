@@ -134,5 +134,13 @@
   "desc": "hb graphite pencil pack of 12 pencils + Rubber Tip",
   "price": 40,
   "img": ".\/images\/pencil-thumbnails\/yalong-yl830.jpg"
+ },
+ {
+  "id": "117",
+  "section": "pencil",
+  "name": "طقم قلم رصاص باندا + أستيكة + براية + غطاء للقلم",
+  "desc": "طقم قلم رصاص باندا + أستيكة + براية + غطاء للقلم",
+  "price": 55,
+  "img": ".\/images\/pencil-thumbnails\/pandaPencils.jpg"
  }
 ]

@@ -182,6 +182,32 @@
     "desc": "مقلمة جلد باندا عالى الجودة",
     "price": 65,
     "img": "./images/babyBanda1.jpg"
+   },
+ {
+    "id": "320",
+    "section": "pencilCase",
+    "name": "مقلمة جلد سوستة  عالى الجودة",
+    "desc": "مقلمة جلد سوستة عالى الجودة",
+    "price": 45,
+    "img": "./images/kuromi.jpg"
+   }
+   ,
+ {
+    "id": "320",
+    "section": "pencilCase",
+    "name": "مقلمة جلد سوستة  عالى الجودة",
+    "desc": "مقلمة جلد سوستة عالى الجودة",
+    "price": 45,
+    "img": "./images/dinasour.jpg"
+   }
+   ,
+ {
+    "id": "320",
+    "section": "pencilCase",
+    "name": "مقلمة جلد سوستة  عالى الجودة",
+    "desc": "مقلمة جلد سوستة عالى الجودة",
+    "price": 45,
+    "img": "./images/dinasour1.jpg"
    }
 
 ]

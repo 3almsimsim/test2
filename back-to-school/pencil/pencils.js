@@ -56,7 +56,7 @@ class UI {
       if(product.section === "pencil"){
         result += `
      <div class="product-box">
-          <a href=""><img src=${product.img} alt="" class="product-img"></a>
+          <a class="product-img" href=""><img src=${product.img} alt="" class="product-img"></a>
           <a href="#" class="new-p-link">${product.desc}</a>
           <div class="star">
             <i class="fas fa-star"></i>

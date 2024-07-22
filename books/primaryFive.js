@@ -82,7 +82,7 @@ class UI {
       if(product.section === "primary_six"){
         result += `
         <div class="week-prod product-box">
-        <a href=""><img src=${product.img} alt="" class="product-img"></a>
+        <a class="product-img" href=""><img src=${product.img} alt="" class="product-img"></a>
         <a href="#" class="new-p-link">${product.desc}</a>
         <div class="star">
         <i class="fas fa-star"></i>

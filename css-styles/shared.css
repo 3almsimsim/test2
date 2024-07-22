@@ -99,6 +99,7 @@ h5 {
     left: 0;
     top: 25%;
     width: 100%;
+    border: 2px dashed #26b9d1;
     z-index: 1005;
   }
 

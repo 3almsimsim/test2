@@ -99,6 +99,7 @@ h5 {
     left: 0;
     top: 25%;
     width: 100%;
+    z-index: 1005;
   }
 
 .new-p-link {

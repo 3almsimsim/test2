@@ -352,6 +352,30 @@
     "desc": "مقلمة مغناطيس ألة حاسبة ببراية  يونيكورن",
     "price": 55,
     "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/back-to-school/pencilCase/images/calcUnicorn.jpg"
+   },
+ {
+    "id": "341",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ببراية  رجل الفضاء",
+    "desc": "مقلمة مغناطيس  ببراية  رجل الفضاء",
+    "price": 45,
+    "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/back-to-school/pencilCase/images/magnetAvengers.jpg"
+   }
+ {
+    "id": "342",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ببراية  فروزن",
+    "desc": "مقلمة مغناطيس ببراية  فروزن",
+    "price": 45,
+    "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/back-to-school/pencilCase/images/magnetFrozen2.jpg"
+   },
+ {
+    "id": "343",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ببراية  فروزن",
+    "desc": "مقلمة مغناطيس ببراية  فروزن",
+    "price": 45,
+    "img": "https://raw.githubusercontent.com/3almsimsim/test2/main/back-to-school/pencilCase/images/magnetSpace2.jpg"
    }
 
 ]

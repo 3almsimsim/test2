@@ -344,6 +344,14 @@
     "desc": "مقلمة مغناطيس ألة حاسبة ببراية  رجل الفضاء",
     "price": 55,
     "img": "./images/calcSpaceman.jpg"
+   },
+ {
+    "id": "340",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ألة حاسبة ببراية  يونيكورن",
+    "desc": "مقلمة مغناطيس ألة حاسبة ببراية  يونيكورن",
+    "price": 55,
+    "img": "./images/calcUnicorn.jpg"
    }
 
 ]

@@ -306,12 +306,44 @@
     "img": "./images/magnetCar.jpg"
    },
  {
-    "id": "334",
+    "id": "335",
     "section": "pencilCase",
-    "name": "مقلمة مغناطيس ببراية برق فروزن",
-    "desc": "مقلمة مغناطيس ببراية برق فروزن",
+    "name": "مقلمة مغناطيس ببراية  فروزن",
+    "desc": "مقلمة مغناطيس ببراية  فروزن",
     "price": 40,
     "img": "./images/magnetFrozen.jpg"
+   },
+ {
+    "id": "336",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ألة حاسبة ببراية  كابتن أمريكا",
+    "desc": "مقلمة مغناطيس ألة حاسبة ببراية  كابتن أمريكا",
+    "price": 55,
+    "img": "./images/calcCaptin.jpg"
+   },
+ {
+    "id": "337",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ألة حاسبة ببراية  فروزن",
+    "desc": "مقلمة مغناطيس ألة حاسبة ببراية  فروزن",
+    "price": 55,
+    "img": "./images/calcFrozen.jpg"
+   },
+ {
+    "id": "338",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ألة حاسبة ببراية  أميرات",
+    "desc": "مقلمة مغناطيس ألة حاسبة ببراية  أميرات",
+    "price": 55,
+    "img": "./images/calcPrincess.jpg"
+   },
+ {
+    "id": "339",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ألة حاسبة ببراية  رجل الفضاء",
+    "desc": "مقلمة مغناطيس ألة حاسبة ببراية  رجل الفضاء",
+    "price": 55,
+    "img": "./images/calcSpaceman.jpg"
    }
 
 ]

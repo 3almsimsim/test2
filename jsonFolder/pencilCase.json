@@ -274,12 +274,44 @@
     "img": "./images/ironMan.jpg"
    },
  {
-    "id": "330",
+    "id": "331",
     "section": "pencilCase",
     "name": "مقلمة 2سوستة 4*4 خامة عالى الجودة",
     "desc": "مقلمة 2سوستة 4*4 خامة عالى الجودة",
     "price": 75,
     "img": "./images/race.jpg"
+   },
+ {
+    "id": "332",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ببراية كابتن أمريكا",
+    "desc": "مقلمة مغناطيس ببراية كابتن أمريكا",
+    "price": 40,
+    "img": "./images/magnetCaptin.jpg"
+   },
+ {
+    "id": "333",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ببراية يونيكورن",
+    "desc": "مقلمة مغناطيس ببراية يونيكورن",
+    "price": 40,
+    "img": "./images/magnetUnicorn.jpg"
+   },
+ {
+    "id": "334",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ببراية برق بنزين",
+    "desc": "مقلمة مغناطيس ببراية برق ينزين",
+    "price": 40,
+    "img": "./images/magnetCar.jpg"
+   },
+ {
+    "id": "334",
+    "section": "pencilCase",
+    "name": "مقلمة مغناطيس ببراية برق فروزن",
+    "desc": "مقلمة مغناطيس ببراية برق فروزن",
+    "price": 40,
+    "img": "./images/magnetFrozen.jpg"
    }
 
 ]

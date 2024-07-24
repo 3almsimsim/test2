@@ -11,3 +11,17 @@ main {
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 799px) {
+ height: 150px;
+  }
+
+
+
+/* ===========mobile========== */
+
+@media (max-width: 377px) {
+  .banner {
+    height: 150px;
+  
+}

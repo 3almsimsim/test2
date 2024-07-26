@@ -9,6 +9,7 @@ const cartItems = document.querySelector(".quantity");
 const cartTotal = document.querySelector(".total_price");
 const cartContent = document.querySelector(".cartContainer");
 const schoolNotebookDOM = document.querySelector(".product-box-container");
+const image = document.getElementById("item-img");
 // const btns = document.querySelectorAll('.addTo-cart');
 // test
 // const featuredProductsDOM = document.querySelector('.featured-container');
@@ -169,7 +170,7 @@ cartContent.appendChild(div);
 const Name_Items = document.getElementById("Name_Items");
     const Price = document.getElementById("Price");
     const amount = document.getElementById("amount");
-    const image = document.getElementById("item-img");
+    
       Name_Items.value += item.name + "\n";
       amount.value += item.amount + "\n";
       Price.value += item.price + "\n";
